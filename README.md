@@ -5,7 +5,7 @@ I hadn't taken into account how important complete knowledge of your css library
 
 # Update
 
-* 1.1 > Added native Google search functionality using a simple form request. 
+* 1.1 -> Added native Google search functionality using a simple form request. 
 
 **Required languages**: HTML, CSS
 
